@@ -11,8 +11,8 @@ title: 关于
 
 目前有两个建立在Poole上的主题：
 
-* [海德](http://hyde.getpoole.com)
-* [兰宁](http://lanyon.getpoole.com)
+* [海德](http://hyde.getpoole.com)。
+* [兰宁](http://lanyon.getpoole.com)。
 
 
 
@@ -20,11 +20,11 @@ title: 关于
 
 有关此项目设置的一些有趣的事实包括：
 
-* 专为 此人建设[Jekyll](http://jekyllrb.com)
-* 由[GitHub页面]免费托管(https://pages.github.com)
-* 编码[Sublime Text 2](http://sublimetext.com), an amazing code editor
+* 专为 此人建设[Jekyll](http://jekyllrb.com)。
+* 在[GitHub页面](https://pages.github.com)免费托管。
+* 编码[Sublime Text 2](http://sublimetext.com), 一个非常不错的代码编辑器。
 * 设计和开发，同时听音乐。 
 
-如果你有什么想法和建议？ [随时联系我的邮箱](1714593434@Outlook.com).
+如果你有什么想法和建议？ [随时联系我的邮箱](1714593434@Outlook.com)。
 
 感谢阅读！
