@@ -4,8 +4,8 @@ title: about
 ---
 
 <p class="message">
-      *一篇很好的博客框架应该如[刘未鹏大牛](http://mindhacks.cn)。
-      *或者说是[廖晓峰大牛](https://www.liaoxuefeng.com)。
+      * 一篇很好的博客框架应该如[刘未鹏大牛](http://mindhacks.cn)。
+      * 或者说是[廖晓峰大牛](https://www.liaoxuefeng.com)。
       我不是一位太了解前端的学生，但是我觉得我以后很有可能会进入前端的世界，目前看起来博客框架还是有一些不少的问题。
 </p>
 
@@ -24,6 +24,6 @@ title: about
 * 编码[Sublime Text 2](http://sublimetext.com), 一个非常不错的代码编辑器。
 * 设计和开发，同时听音乐。 
 
-如果你有什么想法和建议？ [email@1714593434@Outloook.com](1714593434@Outlook.com)。
+如果你有什么想法和建议？ [1714593434@Outloook.com](mailto:1714593434@Outlook.com)。
 
 感谢阅读！
