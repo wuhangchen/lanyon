@@ -25,7 +25,7 @@ title: Google-C++-style-headerfile
  
  例如举例如下：项目``foo``中的头文件``foo/src/bar/baz.h``就应该按照如下方式：
  
-```gcc::C++
+```C++
   
      #ifndef FOO_BAR_BAZ_H
      #define FOO_BAR_BAZ_H
@@ -34,12 +34,13 @@ title: Google-C++-style-headerfile
 ```forward-declarations;
   
   
+  
 ## 前置申明：
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   
  总结:
   
-      >尽可能避免使用前置申明，使用``#include``包含的头文件。
+ >尽可能避免使用前置申明，使用``#include``包含的头文件。
       
       
  ##  内联函数
