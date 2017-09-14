@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google-C++-style-headerfile
+title: google-c++-style-headerfile
 ---
 
 ## 前言
