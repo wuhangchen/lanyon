@@ -5,7 +5,7 @@ title: about
 
 ## More Information
 
-### good blog
+### Good blog
 * 一篇很好的博客框架应该如[刘未鹏大牛](http://mindhacks.cn)。
 * 或者说是[廖晓峰大牛](https://www.liaoxuefeng.com)。
 
