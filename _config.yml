@@ -28,3 +28,7 @@ version:             1.0.0
 
 
 paginate: 2
+
+
+plugins:
+  - jekyll-sitemap
