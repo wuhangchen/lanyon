@@ -24,3 +24,4 @@ author:
 
 # Custom vars
 version:             1.0.0
+paginate: 3
