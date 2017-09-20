@@ -11,24 +11,32 @@ permalink:           pretty
 # Setup
 title:               Zero_One的博客
 tagline:             'Cpp世界中探寻'
-description:         '抽屉式的博客边框.'
-url:                 
+description:         '天将降大任于斯人也，必先苦其心志。.'
+url:                 http://myshstudy.cn/
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              吴杭沉
-  url:               
+  url:               http://myshstudy.cn/
   email:             1714593434@Outlook.com
 
 # Custom vars
 version:             1.0.0
 
-
-
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_feed_layout: tag_feed
+tag_feed_dir: tag
+tag_permalink_style: pretty
+tag_page_data:
+  sitemap: false
+  
 paginate: 2
 
 
 plugins:
   - jekyll-sitemap
+  - jekyll-tagging
+ 
