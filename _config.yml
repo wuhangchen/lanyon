@@ -3,7 +3,7 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 # Dependencies 
 markdown:            redcarpet 
-highlighter:         pygments 
+highlighter:          rouge
 
 permalink:           pretty
 
