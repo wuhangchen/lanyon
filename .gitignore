@@ -1,4 +1,6 @@
 # Ignore docs files
+sass-cache
+.jekyll-metadata
 _gh_pages
 _site
 .ruby-version
