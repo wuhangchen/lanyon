@@ -1,65 +1,57 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-# Dependencies 
-markdown:            redcarpet 
-highlighter:          rouge
-
 permalink:           pretty
 
-
 # Setup
-title:               Zero_One的博客
-tagline:             'Cpp世界中探寻'
-description:         '天将降大任于斯人也，必先苦其心志'
-url:                 http://myshstudy.cn/
+title:               null
+tagline:             'Responsible software engineer'
+description:         'A small website to introduce you to myself'
+url:                 https://wuhangchen.github.io/
 baseurl:             ''
-paginate:            5
+markdown:            kramdown
+highlighter:         rouge
+
+
+
+# markdown:            redcarpet
 
 # About/contact
 author:
-  name:              吴杭沉
-  url:               http://myshstudy.cn/
+  name:              wuhangchen
+  url:               https://wuhangchen.github.io/
   email:             1714593434@Outlook.com
 
 # Custom vars
-version:             1.0.0
+version:             1.1.0
 
+#Disqus
+disqus_shortname: wilkacarvalho
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: 1714593434@outlook.com
-  facebook:
-  flickr:
-  github: 
-  instagram:
-  linkedin: 
-  pinterest:
-  rss: # 只需在这里输入任何可用的RSS图标
-  twitter: 
-  stackoverflow: # 
-  youtube: # 
-  googleplus: # 
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-
-tag_page_layout: tag_page
-tag_page_dir: tag
-tag_feed_layout: tag_feed
-tag_feed_dir: tag
-tag_permalink_style: pretty
-tag_page_data:
-
-  
-paginate: 4
-
-
-plugins:
+# Gems
+plugins: 
   - jekyll-sitemap
-  - jekyll-tagging
- 
+  - jekyll/scholar
+  # - jekyll-related-posts
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+
+# related:
+#     max_count: 5
+#     min_score: 0.1
+#     accuracy: 0.75
+# pagination:
+#   enabled: true
+#   per_page: 3
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+#   trail: 
+#     before: 2
+#     after: 2
