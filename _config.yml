@@ -4,7 +4,7 @@
 permalink:           pretty
 
 # Setup
-title:               null
+title:               wuhangchen
 tagline:             'Responsible software engineer'
 description:         'A small website to introduce you to myself'
 url:                 https://wuhangchen.github.io/
@@ -18,7 +18,7 @@ highlighter:         rouge
 
 # About/contact
 author:
-  name:              null
+  name:              wuhangchen
   url:               https://wuhangchen.github.io/
   email:             1714593434@Outlook.com
 
@@ -26,7 +26,7 @@ author:
 version:             1.1.0
 
 #Disqus
-disqus_shortname: null
+disqus_shortname: wuhangchen
 
 # Gems
 plugins: 
