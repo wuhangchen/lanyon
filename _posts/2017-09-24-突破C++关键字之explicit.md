@@ -4,7 +4,6 @@ title: 突破C++关键字之explicit
 comments: true
 category: summary
 tags: [C++ keyword ]  
-hide: true
 ---  
 ## 意象不到的结果  
 当你写好构造函数的的时候，编译器很可能会出现将你所写的代码进行你意象不到的转换，这一切的来源在于 ** 类的构造函数能够进行隐式转换！**  

@@ -4,7 +4,6 @@ title: 走进Linux，上船Debian
 tags: [Linux Debian]  
 comments: true
 category: learning  
-hide: true
 ---
 
 # 走进Linux 上船Debian
