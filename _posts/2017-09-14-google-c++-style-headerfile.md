@@ -1,6 +1,10 @@
 ---
 layout: post
-title: google-c++-style-headerfile
+title: google-c++-style-headerfile  
+comments: true
+category: introduction
+tags: [C++ Google Docs ]  
+hide: true
 ---
 
 ## 前言
